@@ -1,0 +1,223 @@
+ $$$$$$\   $$$$$$\  $$\   $$\  $$$$$$\         $$$$$$\  $$$$$$$$\        $$$$$$\  $$\   $$\ $$$$$$\ $$$$$$$$\  $$$$$$\  $$\   $$\ $$$$$$$$\  $$$$$$\
+$$  __$$\ $$  __$$\ $$$\  $$ |$$  __$$\       $$  __$$\ $$  _____|      $$  __$$\ $$$\  $$ |\_$$  _|\__$$  __|$$  __$$\ $$ |  $$ |$$  _____|$$  __$$\
+$$ /  \__|$$ /  $$ |$$$$\ $$ |$$ /  \__|      $$ /  $$ |$$ |            $$ /  \__|$$$$\ $$ |  $$ |     $$ |   $$ /  \__|$$ |  $$ |$$ |      $$ /  \__|
+\$$$$$$\  $$ |  $$ |$$ $$\$$ |\$$$$$$\        $$ |  $$ |$$$$$\          \$$$$$$\  $$ $$\$$ |  $$ |     $$ |   $$ |      $$$$$$$$ |$$$$$\    \$$$$$$\
+ \____$$\ $$ |  $$ |$$ \$$$$ | \____$$\       $$ |  $$ |$$  __|          \____$$\ $$ \$$$$ |  $$ |     $$ |   $$ |      $$  __$$ |$$  __|    \____$$\
+$$\   $$ |$$ |  $$ |$$ |\$$$ |$$\   $$ |      $$ |  $$ |$$ |            $$\   $$ |$$ |\$$$ |  $$ |     $$ |   $$ |  $$\ $$ |  $$ |$$ |      $$\   $$ |
+\$$$$$$  | $$$$$$  |$$ | \$$ |\$$$$$$  |       $$$$$$  |$$ |            \$$$$$$  |$$ | \$$ |$$$$$$\    $$ |   \$$$$$$  |$$ |  $$ |$$$$$$$$\ \$$$$$$  |
+ \______/  \______/ \__|  \__| \______/        \______/ \__|             \______/ \__|  \__|\______|   \__|    \______/ \__|  \__|\________| \______/
+https://patorjk.com/software/taag/#p=display&h=1&f=Big%20Money-nw&t=SONS%20OF%20SNITCHES
+
+
+https://github.com/Datalux/Osintgram
+https://github.com/MrNonoss/Profil3r-docker/blob/main/README.md
+
+
+
+Danny - Maltego - Obsidian - Osint
+Spiderfoot
+Creepy (geo) https://www.youtube.com/watch?v=JqJ4zaDIVAs
+Dehashed
+Metagoofil
+Exiftool
+
+
+
+1. https://hunter.io/
+2. https://phonebook.cz/
+3. TheHarvester
+
+IMAGE SEARCH
+https://www.youtube.com/watch?v=uBynB50liTw&t=369s
+
+https://cheatsheet.haax.fr/open-source-intelligence-osint/
+https://www.osinttechniques.com/osint-tools.html
+
+https://os2int.com/toolbox/
+
+
+Dorks:
+https://ahrefs.com/blog/google-advanced-search-operators/
+
+
+
+
+0x4rkØ
+Comprehensive List of OSINT Tools v3
+https://www.youtube.com/watch?v=-IoYSMtrBSI
+
+
+Username Enumeration: 0:32
+https://namechk.com/
+https://www.mylife.com/
+
+FOIA: 1:06
+"entity you are looking to FOIA" foia
+https://www.foia.gov/
+https://www.nfoic.org/sample-foia-req...
+
+Real Estate: 2:20
+https://www.zillow.com/
+https://www.redfin.com/
+https://www.google.com/search?q=site%... "address in question"
+"county name" tax assessor
+https://publicrecords.netronline.com/
+
+Data Dumps: 5:09
+https://github.com/davidtavarez/pwndb/
+https://www.dehashed.com
+https://leakcheck.net/
+
+Federal Government Contracts: 6:26
+https://www.usaspending.gov
+https://beta.sam.gov/
+https://sam.gov
+
+MAC Address Identification: 9:05
+https://gitlab.com/wireshark/wireshar...
+https://www.wireshark.org/tools/oui-l...
+
+Network Mapping: 10:43
+https://nmap.org/
+
+IP Address Information: 11:45
+https://www.robtex.com
+
+Critical Infrastructure: 12:26
+https://openinframap.org
+https://www.submarinecablemap.com
+
+Reverse Image Searching: 14:47
+https://yandex.com/images/
+
+Plain-text Credential Search: 15:27
+https://github.com/dxa4481/truffleHog
+
+Business Recon: 17:05
+https://www.dnb.com/
+https://www.crunchbase.com/
+https://opencorporates.com/
+"secretary of state" (INSERT STATE NAME HERE)
+
+Criminal Search:  20:27
+"county name" jail roster
+https://www.blackbookonline.info/
+https://mugshots.com/
+https://www.jailbase.com/
+
+Voter Registration: 21:28
+https://www.blackbookonline.info/WA-V... (you will need to find your state)
+
+Things in Space: 22:10
+http://stuffin.space/
+
+Calculators and Measuring: 23:00
+https://www.weather.gov/epz/wxcalc_sp...
+https://www.pyimagesearch.com/2016/03...
+
+Tools: 24:02
+https://github.com/lanmaster53/recon-ng
+https://github.com/ilektrojohn/creepy
+https://www.postman.com/
+https://github.com/s0md3v/Photon
+https://github.com/smicallef/spiderfoot
+https://flow.microsoft.com/en-us/
+https://www.recordedfuture.com/
+https://www.wappalyzer.com/
+https://www.downthemall.net/
+https://elasticvue.com/
+https://www.invid-project.eu/tools-an...
+
+
+
+Great Resources/Shout outs:
+https://lockfale.com
+https://twitter.com/jnordine
+https://osintframework.com
+https://www.amazon.com/Open-Source-In...
+https://www.sans.org/course/open-sour...
+https://www.tracelabs.org/
+
+Show notes:
+
+Username Finding: 1:17
+https://knowem.com/
+
+People Searching: 2:04
+https://thatsthem.com
+https://zabasearch.com
+
+Email: 2:42
+http://metricsparrow.com/toolkit/emai...
+https://verify-email.org/
+https://haveibeenpwned.com/
+https://ashley.cynic.al/
+
+DNS: 4:38
+https://dnsdumpster.com/
+https://github.com/aboul3la/Sublist3r
+https://github.com/s0md3v/Photon
+https://tools.kali.org/information-ga...
+https://censys.io
+https://github.com/elceef/dnstwist
+https://github.com/danielmiessler/Rob...
+
+Network Recon: 8:08
+https://www.shodan.io/
+
+Reverse Image Searching: 8:50
+https://www.google.com/imghp?hl=en
+https://www.tineye.com/
+
+Image/File Metadata: 9:06
+https://www.sno.phy.queensu.ca/~phil/...
+
+Transportation: 9:30
+https://flightaware.com/
+https://flight-data.adsbexchange.com/
+https://www.jetphotos.com/
+
+Satellite Tracking: 11:07
+https://www.n2yo.com/
+
+Geospatial Information Gathering: 11:33
+https://www.suncalc.org
+https://maps.google.com/
+https://yandex.com/maps/
+https://map.baidu.com/
+https://www.bing.com/maps
+https://strava.com/heatmap
+
+Code Searching: 12:50
+https://github.com/
+https://publicwww.com/
+https://en.wikipedia.org/wiki/Google_...
+
+Archiving: 13:31
+https://web.archive.org/
+https://archive.is/
+https://support.google.com/websearch/...
+
+File Checking: 14:35
+https://www.virustotal.com/
+https://www.nsa.gov/resources/everyon...
+
+Exploits: 15:23
+https://www.exploit-db.com/
+https://www.metasploit.com/
+http://mvfjfugdwgc5uwho.onion/
+
+Threat Intelligence: 15:57
+https://viz.greynoise.io/
+https://badpackets.net/
+https://twitter.com/bad_packets
+
+Vulnerabilities: 16:35
+https://cve.mitre.org/
+https://nvd.nist.gov/
+
+Tools: 17:12
+https://www.hunch.ly/
+https://www.paterva.com/ Youtube Affiliate Links
+
+
